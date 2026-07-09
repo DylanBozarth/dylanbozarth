@@ -4,6 +4,5 @@
 <div>
   <h3><i>Dylan Bozarth</i></h3>
   <p>Web/mobile frontend/backend developer who can do anything.</p>
-   <p>Not looking for employment at the moment</p>
 
 </div>
