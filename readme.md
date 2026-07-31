@@ -1,7 +1,78 @@
+# Dylan Bozarth
 
-[![Dylan's GitHub stats]([https://github-stats-extended.vercel.app/api?username=dylanbozarth)](https://github.com/stats-organization/github-stats-extended](https://github-stats-extended.vercel.app/api/?username=anuraghazra&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed))
-<div>
-  <h3><i>Dylan Bozarth</i></h3>
-  <p>Web/mobile frontend/backend developer who can do anything.</p>
+Full Stack Software Engineer
 
-</div>
+• TypeScript • JavaScript • React • React Native • Python • Swift • AI Integration • APIs
+
+---
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<img height="180" src="https://YOUR-STATS.vercel.app/api?username=dylanbozarth&show_icons=true&count_private=true"/>
+
+<img height="180" src="https://YOUR-STATS.vercel.app/api/top-langs/?username=dylanbozarth&layout=compact&count_private=true"/>
+
+---
+
+## GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dylanbozarth"/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+![Anthropic](https://img.shields.io/badge/Anthropic-black)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000)
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E)
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-blue)
+
+---
+
+## Stack Overflow
+
+<a href="https://stackoverflow.com/users/dylan-bozarth">
+<img src="https://stackoverflow-badge.vercel.app/?userID=dylan-bozarth"/>
+</a>
+
+---
+
+## Featured Projects
+
+### Harbor SDK Integrations
+
+React Native + Swift + Android SDK development
+
+### What's In My Food
+
+React native application using OpenFoodFacts
+
+### 4X Browser Strategy Game
+
+TypeScript + Python + PostgreSQL
+
+---
+
+## Currently Learning
+
+- AI Agents
+- LLM APIs
+- Local AI
+- MCP
+- RAG
+- Vector Databases
+
+---
