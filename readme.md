@@ -1,4 +1,5 @@
-# Dylan Bozarth
+  <h3><i>Dylan Bozarth</i></h3>
+  <p>Web/mobile frontend/backend developer who can do anything.</p>
 
 Full Stack Software Engineer
 
@@ -18,15 +19,15 @@ Full Stack Software Engineer
 
 ---
 
-## GitHub Stats
-
-<img height="180" src="https://YOUR-STATS.vercel.app/api?username=dylanbozarth&show_icons=true&count_private=true"/>
-
-<img height="180" src="https://YOUR-STATS.vercel.app/api/top-langs/?username=dylanbozarth&layout=compact&count_private=true"/>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=dylanbozarth&border_radius=12.5) <br />
+![Top Languages](https://ghstats.dev/api/langs?username=dylanbozarth&border_radius=12.5)
 
 ---
+https://streak-stats.demolab.com/?user=dylanbozarth
 
-## GitHub Activity
+---
+https://github-profile-trophy.vercel.app/?username=dylanbozarth
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dylanbozarth"/>
 
