@@ -29,12 +29,6 @@ Full Stack Software Engineer
 ---
 ![Github streak](https://streak-stats.demolab.com/?user=dylanbozarth)
 
-
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dylanbozarth"/>
-
-
 ---
 
 ## Featured Projects
