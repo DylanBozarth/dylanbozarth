@@ -1,6 +1,5 @@
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=dylanbozarth&border_radius=12.5) <br />
-![Top Languages](https://ghstats.dev/api/langs?username=dylanbozarth&border_radius=12.5)
+[![Dylan's GitHub stats](https://github-stats-extended.vercel.app/api?username=dylanbozarth)](https://github.com/stats-organization/github-stats-extended)
 <div>
   <h3><i>Dylan Bozarth</i></h3>
   <p>Web/mobile frontend/backend developer who can do anything.</p>
