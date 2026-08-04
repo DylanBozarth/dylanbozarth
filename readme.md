@@ -41,7 +41,7 @@ React Native + Swift + Android SDK development
 
 React native application using OpenFoodFacts 
 
-### 4X Browser Strategy Game
+### 4X Browser Strategy Game -Collaborative project
 
 TypeScript + Python + PostgreSQL
 
