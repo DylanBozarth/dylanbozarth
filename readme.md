@@ -9,16 +9,24 @@ Full Stack Software Engineer
 
 ## Tech Stack
 
+### Languages
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Frameworks & Development
+
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-black)
-![Ollama](https://img.shields.io/badge/Ollama-000000)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E)
+
+### AI
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-blue)
 
 ---
