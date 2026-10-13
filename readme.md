@@ -3,7 +3,7 @@
 
 Full Stack Software Engineer
 
-• TypeScript • JavaScript • React • React Native • Python • Swift • AI Integration • APIs
+• TypeScript • JavaScript • React • React Native • Python • Swift • Kotlin • AI Integration • APIs
 
 ---
 
@@ -26,7 +26,8 @@ Full Stack Software Engineer
 ### AI
 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=langchain&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-blue)
 
 ---
@@ -47,9 +48,13 @@ React Native + Swift + Android SDK development
 
 React native application using OpenFoodFacts 
 
-### 4X Browser Strategy Game -Collaborative project
+### Europa diver
 
-TypeScript + Python + PostgreSQL
+Swift iOS game, converted with AI to be multi-platform. 
+
+### Harbor Harry Chatbot  
+
+RAG chatbot trained on Harbor documentation written by yours truly
 
 ---
 
