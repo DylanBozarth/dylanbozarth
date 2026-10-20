@@ -59,6 +59,6 @@ Swift iOS game, converted with AI to be multi-platform.
 RAG chatbot trained on Harbor documentation written by yours truly
 
 ---
-
+Stars earned: 
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=dylanbozarth)
 ---
