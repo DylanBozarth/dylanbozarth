@@ -1,5 +1,5 @@
   <h3><i>Dylan Bozarth</i></h3>
-  <p>Web/mobile frontend/backend developer who can do anything.</p>
+  <p>Web/mobile full stack developer who can do anything.</p>
 
 Full Stack Software Engineer
 
@@ -11,14 +11,16 @@ Full Stack Software Engineer
 
 ### Languages
 
-![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
-### Frameworks & Development
+
+### Frameworks & Development Tools
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -58,12 +60,5 @@ RAG chatbot trained on Harbor documentation written by yours truly
 
 ---
 
-## Currently Learning
-
-- AI Agents
-- LLM APIs
-- Local AI
-- RAG
-- Vector Databases
-
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=dylanbozarth)
 ---
