@@ -3,7 +3,7 @@
 
 Full Stack Software Engineer
 
-• TypeScript • JavaScript • React • React Native • Python • Swift • Kotlin • AI Integration • APIs
+• TypeScript • JavaScript • React • React Native • Python • Swift • Kotlin • AI Integration • APIs • C • C++
 
 ---
 
